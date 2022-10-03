@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @kapishupadhyay22
-- ENGINEERING STUDENT AT JUIT SOLAN
-- 👀 I’m interested in software developement
-- 🌱 I’m currently learning python and web developement
-- If you want to code me with me and learn new skills together, mail me at upadhyaykapish@gmail.com
-- OR you can text me on insta- @kapishupadhyay22
+- 👋 KAPISSH UPADHYAY
+- IT student
+- Google developer student clubs (GDSC - AKGEC)
+- I am an App developer
+- I know C++ , JAVA , Kotlin , Dart , MySQL , HTML , CSS.
+- Linkedin - https://in.linkedin.com/in/kapish-upadhyay-9297b9223
+- Instagram - baba.kapish
 
-<!---
-kapishupadhyay22/kapishupadhyay22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
