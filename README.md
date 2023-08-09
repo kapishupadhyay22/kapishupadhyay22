@@ -1,4 +1,4 @@
-- KAPISSH UPADHYAY
+- KAPISH UPADHYAY
 - IT student (2nd year)
 - Google developer student clubs (GDSC - AKGEC)
 - CP enthusiast (Programming club - AKGEC)
