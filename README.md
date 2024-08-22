@@ -1,5 +1,5 @@
 - KAPISH UPADHYAY
-- IT student (3rd year)
+- IT student (final year)
 - Google developer student clubs (GDSC - AKGEC)
 - CP enthusiast (Programming club - AKGEC) (Specialist @codeforces && ICPC regionalist'23)
 - I am an App Developer and Backend Developer
