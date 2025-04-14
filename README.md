@@ -1,5 +1,7 @@
 - KAPISH UPADHYAY
 - IT student (final year)
+- SWE intern @keploy.io
+- Mentor GSoC 2025
 - Google developer student clubs (GDSC - AKGEC)
 - CP enthusiast (Programming club - AKGEC) (Specialist @codeforces && ICPC regionalist'23)
 - I am an App Developer and Backend Developer
