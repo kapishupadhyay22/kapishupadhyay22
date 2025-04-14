@@ -1,5 +1,4 @@
 - KAPISH UPADHYAY
-- IT student (final year)
 - SWE intern @keploy.io
 - Mentor GSoC 2025
 - Google developer student clubs (GDSC - AKGEC)
